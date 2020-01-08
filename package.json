@@ -1,0 +1,15 @@
+{
+  "name": "@codiseus/date-based-hash",
+  "version": "0.0.1",
+  "description": "tests",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest ./tests"
+  },
+  "author": "Samer Murad <samermurad555@gmail.com> (https://www.samermurad.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "moment": "^2.24.0"
+  }
+}
